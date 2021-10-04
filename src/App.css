@@ -1,0 +1,34 @@
+header {
+  height: 5.1875rem;
+}
+
+a.button.active {
+  border: 1px solid var(--fore-color);
+}
+
+.sticky {
+  display: flex;
+  width: 100%;
+}
+a.sign-in-btn {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: auto;
+  display: inline-flex;
+}
+
+.links-filters {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+}
+.links-filters a {
+  margin: 10px 30px;
+  color: #666666;
+}
+.links-filters .line-divisor {
+  width: 1px;
+  height: 1.3rem;
+  display: inline-flex;
+  background-color: #666666;
+}
