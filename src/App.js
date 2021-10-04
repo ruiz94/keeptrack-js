@@ -20,7 +20,7 @@ function App() {
         </span>
         <NavLink to="/" exact className="button rounded">
           <span className="icon-home"></span>
-          Home
+          Home.
         </NavLink>
         <NavLink to="/projects/" className="button rounded">
           Projects
